@@ -32,7 +32,7 @@ function App() {
 
   return (
     <div className='App'>
-      <h1>JESTEM MLODY G Z GDYNI</h1>
+
       <h2>Hello {username}</h2>
 
       <form>
